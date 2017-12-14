@@ -1,0 +1,22 @@
+body{
+    background-image: url("Imagens/boca.jpg");
+    
+  
+}
+
+h1{
+	background-image: url("Imagens/branco.jpg");
+	width: 232px;
+	height: 218px;
+	color: red;
+	margin-top: 218px;
+	margin-left: 456px;
+	text-align: center;
+
+	
+}
+
+a{
+	background-color: red;
+	color: black;
+}
